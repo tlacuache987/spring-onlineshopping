@@ -258,4 +258,7 @@ gradle-app.setting
 ### Gradle Patch ###
 **/build/
 
+/spring-onlineshopping-backend/target/
+/spring-onlineshopping-front/target/
+
 # End of https://www.gitignore.io/api/git,macos,maven,gradle,windows,eclipse,intellij+all
